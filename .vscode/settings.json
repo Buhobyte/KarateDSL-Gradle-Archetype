@@ -1,3 +1,4 @@
 {
-    "karateRunner.karateRunner.default": "ExamplesTest --info"
+    "karateRunner.karateRunner.default": "ExamplesTest --info",
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
